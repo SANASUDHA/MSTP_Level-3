@@ -1,0 +1,6 @@
+pip freeze---> to show the installed packages
+Linear graph--> if x is increase y also increase.
+
+Coefficient of determination(R^2) and coefficient of multiple determination.
+Regression analysis:
+regression--> it will take predicted values

@@ -1,0 +1,7 @@
+Machine learning devided in to 6 jars.
+1. Data
+2. Tasks
+3. Model
+4. Loss
+5. Learning
+6. Evaluation
